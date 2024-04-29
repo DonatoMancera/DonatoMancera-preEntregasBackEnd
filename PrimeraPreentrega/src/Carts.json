@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "products": [
+      {
+        "title": "Banano",
+        "description": "Descripcion",
+        "price": 500,
+        "thumbnail": "Ruta/imagen",
+        "code": "P001",
+        "stock": 10,
+        "status": true
+      },
+      {
+        "id": 1,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "products": [
+      {
+        "title": "Mandarina",
+        "description": "Descripcion",
+        "price": 1000,
+        "thumbnail": "Ruta/imagen",
+        "code": "P005",
+        "stock": 10,
+        "status": true
+      },
+      {
+        "title": "mora",
+        "description": "Descripcion",
+        "price": 50,
+        "thumbnail": "Ruta/imagen",
+        "code": "P008",
+        "stock": 10,
+        "status": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "products": [
+      {
+        "title": "Rabano",
+        "description": "Descripcion",
+        "price": 1000,
+        "thumbnail": "Ruta/imagen",
+        "code": "P005",
+        "stock": 10,
+        "status": true
+      },
+      {
+        "title": "Mango",
+        "description": "Descripcion",
+        "price": 50,
+        "thumbnail": "Ruta/imagen",
+        "code": "P008",
+        "stock": 10,
+        "status": true
+      },
+      {
+        "title": "Sandia",
+        "description": "Descripcion",
+        "price": 50,
+        "thumbnail": "Ruta/imagen",
+        "code": "P008",
+        "stock": 10,
+        "status": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "produts": [
+      {
+        "title": "nuevo producto",
+        "description": "Descripcion",
+        "price": 1000,
+        "thumbnail": "Ruta/imagen",
+        "code": "P005",
+        "stock": 10,
+        "status": true
+      }
+    ]
+  }
+]

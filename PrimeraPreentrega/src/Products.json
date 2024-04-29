@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Manzana",
+    "description": "Descripcion",
+    "price": 100,
+    "thumbnail": "Ruta/imagen",
+    "code": "P001",
+    "stock": 10,
+    "status": true,
+    "id": 1
+  },
+  {
+    "title": "Pera",
+    "description": "Descripcion",
+    "price": 200,
+    "thumbnail": "Ruta/imagen2",
+    "code": "P002",
+    "stock": 11,
+    "status": true,
+    "id": 2
+  },
+  {
+    "title": "Mandarina",
+    "description": "Descripcion",
+    "price": 300,
+    "thumbnail": "Ruta/imagen2",
+    "code": "P003",
+    "stock": 12,
+    "status": false,
+    "id": 3
+  }
+]
